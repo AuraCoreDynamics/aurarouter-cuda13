@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+src/aurarouter_cuda13/bin/
 build/
 develop-eggs/
 dist/
